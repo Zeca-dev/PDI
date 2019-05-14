@@ -1,0 +1,5 @@
+#!C:\Users\jcarl\PycharmProjects\Video\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
